@@ -1,0 +1,111 @@
+C:\Users\oma25\Desktop\25-3-2014\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\oma25\Desktop\25-3-2014\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\oma25\Desktop\25-3-2014\randm512\SIMBA\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\oma25\Desktop\25-3-2014\randm512\SIMBA\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\oma25\Desktop\25-3-2014\randm512\SIMBA\SIMBA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oma25\Desktop\25-3-2014\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\oma25\Desktop\25-3-2014\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.Cache
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\mscorlib.dll
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\sortkey.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\sorttbls.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\big5.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\bopomofo.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\ksc.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\prc.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\prcp.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\xjis.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\normidna.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\normnfc.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\normnfd.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\normnfkc.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Debug\normnfkd.nlp
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.Cache
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\mscorlib.dll
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\sortkey.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\sorttbls.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\big5.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\bopomofo.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\ksc.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\prc.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\prcp.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\xjis.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\normidna.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\normnfc.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\normnfd.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\normnfkc.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Debug\normnfkd.nlp
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.Cache
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\mscorlib.dll
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\sortkey.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\sorttbls.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\big5.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\bopomofo.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\ksc.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\prc.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\prcp.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\xjis.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\normidna.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\normnfc.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\normnfd.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\normnfkc.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Debug\normnfkd.nlp
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.Cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.Cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\SIMBA.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\SIMBA.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\mscorlib.dll
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\sortkey.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\sorttbls.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\big5.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\bopomofo.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\ksc.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\prc.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\prcp.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\xjis.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\normidna.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\normnfc.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\normnfd.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\normnfkc.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Debug\normnfkd.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\APQ.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\APQ.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\mscorlib.dll
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\sortkey.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\sorttbls.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\big5.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\bopomofo.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\ksc.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\prc.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\prcp.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\xjis.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\normidna.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\normnfc.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\normnfd.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\normnfkc.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Debug\normnfkd.nlp
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\obj\Debug\APQ.Properties.Resources.resources
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.Cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\obj\Debug\APQ.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\obj\Debug\APQ.pdb

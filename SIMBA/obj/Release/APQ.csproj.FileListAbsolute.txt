@@ -1,0 +1,13 @@
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Release\APQ.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\bin\Release\APQ.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\obj\Release\APQ.Properties.Resources.resources
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\obj\Release\APQ.csproj.GenerateResource.Cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\obj\Release\APQ.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA_PQ\SIMBA\obj\Release\APQ.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\APQ\SIMBA\obj\Release\APQ.exe
+\\isilon1\homefolders\oalzoubi\Desktop\APQ\SIMBA\obj\Release\APQ.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\APQ\SIMBA\bin\Release\APQ.exe
+\\isilon1\homefolders\oalzoubi\Desktop\APQ\SIMBA\bin\Release\APQ.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\APQ\SIMBA\obj\Release\APQ.csprojResolveAssemblyReference.cache
+\\isilon1\homefolders\oalzoubi\Desktop\APQ\SIMBA\obj\Release\APQ.Properties.Resources.resources
+\\isilon1\homefolders\oalzoubi\Desktop\APQ\SIMBA\obj\Release\APQ.csproj.GenerateResource.Cache

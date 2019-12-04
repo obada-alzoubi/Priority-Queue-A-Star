@@ -1,0 +1,29 @@
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Release\SIMBA.exe
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\bin\Release\SIMBA.pdb
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Release\SIMBA.Properties.Resources.resources
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Release\SIMBA.csproj.GenerateResource.Cache
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Release\SIMBA.exe
+C:\Users\Obada\Desktop\New folder (3)\randm512\SIMBA\SIMBA\obj\Release\SIMBA.pdb
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Release\SIMBA.exe
+C:\Users\Obada\Desktop\SIMBA\SIMBA\bin\Release\SIMBA.pdb
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.Properties.Resources.resources
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.csproj.GenerateResource.Cache
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.exe
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.pdb
+C:\Users\Obada\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Release\SIMBA.exe
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\bin\Release\SIMBA.pdb
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Release\SIMBA.Properties.Resources.resources
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Release\SIMBA.csproj.GenerateResource.Cache
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Release\SIMBA.exe
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Release\SIMBA.pdb
+C:\Users\Obada\Desktop\imp\SIMBA\SIMBA\obj\Release\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\oalzoubi\Google Drive\LBR\imp\SIMBA\SIMBA\obj\Release\SIMBA.exe
+C:\Users\oalzoubi\Google Drive\LBR\imp\SIMBA\SIMBA\obj\Release\SIMBA.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Release\SIMBA.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\bin\Release\SIMBA.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.csprojResolveAssemblyReference.cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.Properties.Resources.resources
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBA\SIMBA\obj\Release\SIMBA.csproj.GenerateResource.Cache
